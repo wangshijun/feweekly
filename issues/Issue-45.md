@@ -79,12 +79,10 @@ Visual Studio Code 可以说是微软发力之后的奋起直追，目前已经�
 ### One More Thing
 
 想直接在微信中订阅前端周刊？扫下方二维码关注前端周刊订阅号。
+
 ![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
 
-
-想和我面对面交流？扫下方二维码添加我为好友。
-
-![wangshijun](http://www.feweekly.com/img/src/weekly/feweekly/wangshijun.jpg)
+每期的内容也会同步发送在知乎专栏[前端周刊](http://zhuanlan.zhihu.com/feweekly)上。
 
 Happy Hacking
 
