@@ -7,8 +7,8 @@
 * [前端周刊第45期：Node.js API 最佳实践、AWS CaseStudy](issues/Issue-45.md)
 * [前端周刊第44期：JS 新概念词典、TypeScript 免费好书、SHA1 可被破解](issues/Issue-44.md)
 * [前端周刊第43期：前端工程师手册2017版](issues/Issue-43.md)
-* [第 42 期：](issues/Issue-42.md)
-* [第 41 期：](issues/Issue-41.md)
+* [前端周刊第42期：Vue.js 组件编写原则](issues/Issue-42.md)
+* [前端周刊第41期：浏览器预加载机制探秘](issues/Issue-41.md)
 
 
 ## 同步平台
