@@ -13,11 +13,8 @@
 
 ## 同步平台
 
-微信公众号，扫描下方二维码订阅（由于微信限制微信订阅号文章没有外链）
+知乎专栏，每期的内容也会同步发送在[知乎专栏](http://zhuanlan.zhihu.com/feweekly)上。此外，感兴趣的同学可以扫描下方的二维码订阅前端周刊微信公众号。
 
 ![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
 
-知乎专栏，每期的内容也会同步发送在[知乎专栏](http://zhuanlan.zhihu.com/feweekly)上。
-
 Happy Hacking
-
