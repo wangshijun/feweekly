@@ -63,6 +63,7 @@ Express 4 中对 Router 做了比较大的改进，可以为路由的 URL 增加
 ### One More Thing
 
 想直接在微信中订阅前端周刊？扫下方二维码关注前端周刊订阅号。
+
 ![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
 
 每期的内容也会同步发送在前端周刊知乎专栏上：http://zhuanlan.zhihu.com/feweekly。
