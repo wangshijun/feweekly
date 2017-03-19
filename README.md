@@ -4,6 +4,8 @@
 
 ## 往届周刊
 
+* [第 47 期：](issues/Issue-47.md)
+* [第 46 期：](issues/Issue-46.md)
 * [第 45 期：](issues/Issue-45.md)
 * [第 44 期：](issues/Issue-44.md)
 * [第 43 期：](issues/Issue-43.md)
@@ -13,11 +15,11 @@
 
 ## 同步平台
 
-微信公众号，扫描下方二维码订阅（由于微信限制微信订阅号文章没有外链）
+每期的内容也会同步发送在[知乎专栏](http://zhuanlan.zhihu.com/feweekly)上。
+
+想在微信阅读的同学可以扫描下方二维码订阅（由于微信限制微信订阅号文章没有外链）
 
 ![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
-
-知乎专栏，每期的内容也会同步发送在[知乎专栏](http://zhuanlan.zhihu.com/feweekly)上。
 
 Happy Hacking
 
