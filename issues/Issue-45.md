@@ -1,4 +1,4 @@
-## 前端周刊第45期
+## 前端周刊第45期：Node.js API 最佳实践、AWS CaseStudy
 
 > 这周发生了很多大事，百度挂完亚马逊挂，斯坦福还准备开 JS 课程，看来订阅这份周刊的同学都没入错行。先纠正我之前的一个错误，就是对于 Node.js 的叫法，有写过 NodeJS 的，也有写过 Node 的，但是官方的叫法是 Node.js。下面是本周的精彩内容，请享用！
 
@@ -79,12 +79,10 @@ Visual Studio Code 可以说是微软发力之后的奋起直追，目前已经�
 ### One More Thing
 
 想直接在微信中订阅前端周刊？扫下方二维码关注前端周刊订阅号。
+
 ![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
 
-
-想和我面对面交流？扫下方二维码添加我为好友。
-
-![wangshijun](http://www.feweekly.com/img/src/weekly/feweekly/wangshijun.jpg)
+每期的内容也会同步发送在知乎专栏[前端周刊](http://zhuanlan.zhihu.com/feweekly)上。
 
 Happy Hacking
 

@@ -1,4 +1,4 @@
-## 前端周刊第43期
+## 前端周刊第43期：前端工程师手册2017版
 
 > 嘿嘿，本期开始前端周刊的内容会同步发布在名称都为《前端周刊》的微信公众号、知乎专栏、简书专栏上，欢迎大家根据自己方便的方式去订阅，邮件也会继续发送。下面是第 43 期内容，请享用！
 
@@ -69,11 +69,9 @@ React Native 的种子文件，里面包含文件组织方式，各种命令，�
 ### One More Thing
 
 想直接在微信中订阅前端周刊？扫下方二维码关注前端周刊订阅号。
+
 ![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
 
-
-想和我面对面交流？扫下方二维码添加我为好友。
-
-![wangshijun](http://www.feweekly.com/img/src/weekly/feweekly/wangshijun.jpg)
+每期的内容也会同步发送在知乎专栏[前端周刊](http://zhuanlan.zhihu.com/feweekly)上。
 
 Happy Hacking
