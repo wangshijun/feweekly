@@ -4,6 +4,8 @@
 
 ## 往届周刊
 
+* [前端周刊第49期：React 和 Vue.js SSR 框架 + 微信小程序 + Grid 布局](issues/Issue-47.md)
+* [前端周刊第48期：Vue Conf 2017 + Progressive WEB APP](issues/Issue-47.md)
 * [前端周刊第47期：Vue.js 后台模板 + React Conf 2017 + 饿了么面试宝典](issues/Issue-47.md)
 * [前端周刊第46期：Vue.js + VSCode + 程序员防骗指南](issues/Issue-46.md)
 * [前端周刊第45期：Node.js API 最佳实践、AWS CaseStudy](issues/Issue-45.md)
