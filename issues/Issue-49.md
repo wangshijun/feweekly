@@ -48,7 +48,7 @@ Typeahead 这种交互方式已经很常见了，鼻祖就是 Google 的搜索�
 
 #### [React 前后端同构应用框架 Next.js 发布 2.0 版本](https://zeit.co/blog/next2)
 
-Next.js 在前端周刊第XXX期中已经收录，其出现的主要动机是提供一个前后端同构应用的脚手架，Github star 数量超过 1W，近期正式发布了 2.0 版本，其主作者在 React Conf 2017 上也 Next.js 做了演讲和布道，想在 React 前后端同构应用上少走弯路？强烈建议试试这个。
+Next.js 在前端周刊第46期中已经收录，其出现的主要动机是提供一个前后端同构应用的脚手架，Github star 数量超过 1W，近期正式发布了 2.0 版本，其主作者在 React Conf 2017 上也 Next.js 做了演讲和布道，想在 React 前后端同构应用上少走弯路？强烈建议试试这个。
 
 #### [Vue.js 前后端同构应用框架 Nuxt.js](https://github.com/nuxt/nuxt.js)
 
@@ -74,4 +74,7 @@ const 是 ES6 中变量声明的新方式，表面意思是声明的变量不可
 
 ### One More Thing
 
-如果对文中的内容有任何疑问，欢迎留言讨论。想知道我接下来会写些什么？欢迎订阅知乎专栏：[《前端周刊：让你在前端领域跟上时代的脚步》](https://zhuanlan.zhihu.com/p/25644447)。
+如果对文中的内容有任何疑问，欢迎留言讨论。想知道我接下来会写些什么？欢迎订阅知乎专栏：[《前端周刊：让你在前端领域跟上时代的脚步》](https://zhuanlan.zhihu.com/feweekly)。或者扫描下方二维码订阅微信公众号。
+
+![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
+
