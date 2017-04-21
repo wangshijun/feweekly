@@ -1,8 +1,6 @@
-## 前端周刊第51期
+## 前端周刊第51期：Vue.js CMS + React Native 轮子 + 奇技淫巧
 
-> Node.js 社区最高产的工程师 <a href="https://twitter.com/sindresorhus/status/851843817888137217">Sindre Sorhus</a> 本周发布了他的第 1000 个 npm 包，<a href="https://github.com/sindresorhus/conduct">详见这里</a>，据 npm 官方统计，全网的 npm 包下载量中有 12% 都跟 Sindre Sorhus 有关。看到这个，你作何感想？
-
-另外，部分精彩的文章我已经翻译成中文发到<a href="https://zhuanlan.zhihu.com/feweekly">知乎专栏</a>上，就没有收录到前端周刊。下面是本周的精选内容，请享用！
+> Node.js 社区最高产的工程师 <a href="https://twitter.com/sindresorhus/status/851843817888137217">Sindre Sorhus</a> 本周发布了他的第 1000 个 npm 包，<a href="https://github.com/sindresorhus/conduct">详见这里</a>，据 npm 官方统计，全网的 npm 包下载量中有 12% 都跟 Sindre Sorhus 有关。看到这个，你作何感想？另外，部分精彩的文章我已经翻译成中文发到<a href="https://zhuanlan.zhihu.com/feweekly">知乎专栏</a>上，就没有收录到前端周刊。下面是本周的精选内容，请享用！
 
 ### 技术动态
 
