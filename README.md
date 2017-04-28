@@ -4,6 +4,7 @@
 
 ## 往届周刊
 
+* [前端周刊第53期：React 社区的撕逼](issues/Issue-53.md)
 * [前端周刊第52期：React Native 路由管理、样式管理](issues/Issue-52.md)
 * [前端周刊第51期：1000个包的男人 + Vue.js + React Native](issues/Issue-51.md)
 * [前端周刊第50期：React 状态管理 + Vue.js 作弊条 + 命令行技巧](issues/Issue-50.md)
