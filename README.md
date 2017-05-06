@@ -4,6 +4,7 @@
 
 ## 往届周刊
 
+* [前端周刊第54期：Prepack 引发社区小高潮](issues/Issue-54.md)
 * [前端周刊第53期：React 社区的撕逼](issues/Issue-53.md)
 * [前端周刊第52期：React Native 路由管理、样式管理](issues/Issue-52.md)
 * [前端周刊第51期：1000个包的男人 + Vue.js + React Native](issues/Issue-51.md)
@@ -17,7 +18,6 @@
 * [前端周刊第43期：前端工程师手册2017版](issues/Issue-43.md)
 * [前端周刊第42期：Vue.js 组件编写原则](issues/Issue-42.md)
 * [前端周刊第41期：浏览器预加载机制探秘](issues/Issue-41.md)
-
 
 ## 同步平台
 
