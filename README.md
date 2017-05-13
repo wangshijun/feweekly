@@ -4,6 +4,7 @@
 
 ## 往届周刊
 
+* [前端周刊第55期：10X 程序员？](issues/Issue-55.md)
 * [前端周刊第54期：Prepack 引发社区小高潮](issues/Issue-54.md)
 * [前端周刊第53期：React 社区的撕逼](issues/Issue-53.md)
 * [前端周刊第52期：React Native 路由管理、样式管理](issues/Issue-52.md)
@@ -38,3 +39,4 @@
 ![wangshijun](http://www.feweekly.com/img/src/weekly/feweekly/wangshijun.jpg)
 
 Happy Hacking
+
