@@ -1,6 +1,6 @@
 ## 前端周刊第55期：10X 程序员？
 
-> 我本周读到 1 篇比较有趣的文章叫做《The 10x developer is NOT a myth》，不管你承不承认，也不管你有没有意识到，程序员的效率有时会有天壤之别，10X 程序员的概念很早就出现了，怎样才算 10X 程序员？跟普通程序员的区别在哪里？推荐你抽时间细读，如果你不愿意看中文，可以看看我写的《工程师做事的三重境界》。下面是本周精选的内容，请享用。
+> 我本周读到 1 篇比较有趣的文章叫做[《The 10x developer is NOT a myth》](http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/)，不管你承不承认，也不管你有没有意识到，程序员的效率有时会有天壤之别，10X 程序员的概念很早就出现了，怎样才算 10X 程序员？跟普通程序员的区别在哪里？推荐你抽时间细读，如果你不愿意看中文，可以看看我写的[《工程师做事的三重境界》](https://zhuanlan.zhihu.com/p/26660510)。下面是本周精选的内容，请享用。
 
 ### 技术动态
 
@@ -10,7 +10,7 @@
 
 #### [ES6 模块加载登陆 Chrome Canary 60](https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7)
 
-不知道 ES6 模块的同学应该去看看 Ponyfoo 或者 Jake 的文章，Chrome Canary v60 已经提供了 ES6 模块的支持，不过需要你手动打开支持。这篇文章可以说是新特性尝鲜文章，并且对如何开始在项目中使用这个功能、如何做恰当的回退都提出了可行的方案。
+不知道 ES6 模块的同学应该去看看 [Ponyfoo](https://ponyfoo.com/articles/es6-modules-in-depth) 或者 [Jake](https://jakearchibald.com/2017/es-modules-in-browsers/) 的文章，Chrome Canary v60 已经提供了 ES6 模块的支持，不过需要你手动打开支持。这篇文章可以说是新特性尝鲜文章，并且对如何开始在项目中使用这个功能、如何做恰当的回退都提出了可行的方案。
 
 ### 文章教程
 

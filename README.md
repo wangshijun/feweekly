@@ -4,6 +4,7 @@
 
 ## 往届周刊
 
+* [前端周刊第56期：应接不暇的技术大会](issues/Issue-56.md)
 * [前端周刊第55期：10X 程序员？](issues/Issue-55.md)
 * [前端周刊第54期：Prepack 引发社区小高潮](issues/Issue-54.md)
 * [前端周刊第53期：React 社区的撕逼](issues/Issue-53.md)
