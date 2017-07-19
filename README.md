@@ -4,6 +4,12 @@
 
 ## 往届周刊
 
+* [前端周刊第63期：前端新手如何快速提高？](issues/Issue-63.md)
+* [前端周刊第62期：学习学习再学习](issues/Issue-62.md)
+* [前端周刊第61期：你离 CTC 有多远？](issues/Issue-61.md)
+* [前端周刊第60期：用空格缩进的程序员挣得更多？](issues/Issue-60.md)
+* [前端周刊第59期：选 Flow 还是 TypeScript？](issues/Issue-59.md)
+* [前端周刊第58期：送你 3 道面试题](issues/Issue-58.md)
 * [前端周刊第57期：《战争与和平版》的 CSS-IN-JS 黑历史](issues/Issue-57.md)
 * [前端周刊第56期：应接不暇的技术大会](issues/Issue-56.md)
 * [前端周刊第55期：10X 程序员？](issues/Issue-55.md)
