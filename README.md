@@ -38,13 +38,13 @@
 
 想直接在微信中订阅前端周刊？扫下方二维码关注前端周刊订阅号。
 
-![feweekly](http://www.feweekly.com/img/src/weekly/feweekly/qrcode.jpg)
+![feweekly](./assets/qrcode_feweekly.jpg)
 
 ### 面对面交流
 
 想和我面对面交流？扫下方二维码添加我为好友。
 
-![wangshijun](http://www.feweekly.com/img/src/weekly/feweekly/wangshijun.jpg)
+![wangshijun](./assets/qrcode_wangshijun.jpg)
 
 Happy Hacking
 
